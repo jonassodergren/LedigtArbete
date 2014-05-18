@@ -3,7 +3,7 @@ package se.af.arbete.delivery.cli;
 import asg.cliche.ShellFactory;
 
 /**
- * Hello world!
+ * Runner!
  *
  */
 public class CommandLineInterface 
